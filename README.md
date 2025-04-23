@@ -64,11 +64,11 @@ Here’s a snapshot of me:
 ### Cloud Platforms  
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) [![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/) [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 
-### Big Data Tools  
-[![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/) [![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/) [![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-
 ### GenAI & LLM Ecosystem  
 [![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/) [![LLaMA](https://img.shields.io/badge/LLaMA-005571?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/) [![RAG](https://img.shields.io/badge/RAG%20Pipelines-blueviolet?style=for-the-badge)]() [![LangGraph](https://img.shields.io/badge/LangGraph-6E00FF?style=for-the-badge)](https://langgraph.dev) [![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=data:image/svg+xml;base64,YOUR_BASE64_ENCODED_LOGO&logoColor=white)](https://www.crewai.com/) [![Pinecone](https://img.shields.io/badge/Pinecone-03A9F4?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+
+### Big Data Tools  
+[![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/) [![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/) [![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
 
 
 ### Development & DevOps Tools  
