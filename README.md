@@ -14,7 +14,6 @@ Here’s a snapshot of me:
 ## Roles I’m Interested In
 - Software Engineer  
 - Full Stack Developer  
-- Data Engineer   
 
 ---
 
