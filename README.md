@@ -14,12 +14,12 @@ Currently pursuing MS @ Northeastern University (’26). Seeking **Full-Time Bac
 ---
 
 ## Core Technical Stack
-**Backend:** Java, Spring Boot, Go, Python, REST APIs, OAuth2 / Spring Security  
-**Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions, Terraform  
-**Data & Streaming:** Snowflake, Kafka, PostgreSQL, MongoDB 
-**GenAI:** LangChain, LangGraph, OpenAI APIs, Vector Search, CrewAI  
-**Monitoring:** Prometheus, Grafana, AWS CloudWatch
-**Other:** React, Linux, Maven, Gradle
+- **Backend:** Java, Spring Boot, Go, Python, REST APIs, OAuth2 / Spring Security  
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions, Terraform  
+- **Data & Streaming:** Snowflake, Kafka, PostgreSQL, MongoDB  
+- **GenAI:** LangChain, LangGraph, OpenAI APIs, Vector Search, CrewAI  
+- **Monitoring:** Prometheus, Grafana, AWS CloudWatch  
+- **Other:** React, Linux, Maven, Gradle
 
 ---
 
